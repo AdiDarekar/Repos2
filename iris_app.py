@@ -75,4 +75,4 @@ st.text('')
 st.text('')
 st.markdown(
     '`Initial code was developed by` [Dr. D. Narayana](https://www.linkedin.com/in/darapaneni/) | \
-         `Code modification and update by:` [Students](https://www.linkedin.com/in/darapaneni/)')
+         `Code modification and update by:` [Aditi Darekar](https://www.linkedin.com/in/Aditi/)')
